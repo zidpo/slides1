@@ -28,7 +28,10 @@ presenter: dev
 
  ![unioeste](https://seeklogo.com/images/U/unioeste-logo-7C37EFF4DB-seeklogo.com.png)
 
- <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/zidpo/slides/main/qr-code(2).png">
+ <p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/zidpo/slides/main/qr-code(2).png">
+</p>
+
   
   
 
