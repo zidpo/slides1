@@ -26,16 +26,7 @@ presenter: dev
   </span>
 </div>
 
-<div class="w-60 relative mt-6">
-  <div class="relative w-40 h-40">
-    <img
-      
-      src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_unioeste.png"
-    />
- 
-    
-  </div>
-</div>
+
 
 
   
