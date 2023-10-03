@@ -26,7 +26,7 @@ presenter: dev
   </span>
 </div>
 
-
+ ![unioeste](https://seeklogo.com/images/U/unioeste-logo-7C37EFF4DB-seeklogo.com.png)
 
 
   
