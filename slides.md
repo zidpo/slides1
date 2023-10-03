@@ -205,10 +205,10 @@ const final = {
 
 ---
 
-# Reconhecimento de gestos
+# Reconhecimento de gestos: reconhecimento de linguagem de sinais 
 
-
-<Tweet id="1497557100389617670" scale="0.65" />
+<br>
+<Tweet id="1497557100389617670" scale="0.60"/>
 
 ---
 
